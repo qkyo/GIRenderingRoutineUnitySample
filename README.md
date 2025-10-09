@@ -1,5 +1,4 @@
 # GIRenderingRoutineUnitySample
- Real-time global illumination rendering by using temporal vectorized visibility
 
 ![image](https://github.com/qkyo/GIRenderingRoutineUnitySample/blob/main/Readme/banner.gif)
 
